@@ -1,0 +1,48 @@
+.continer{
+width: 100%;
+display: flex;
+justify-content: space-between;
+height: auto;
+margin: 20px;
+padding: 10px;
+}
+
+
+
+.box{
+position: relative;
+width: 30%;
+height: 400px;
+background-color: bisque;
+}
+
+
+.img{
+width: 50%;
+height: auto;
+margin: auto;
+}
+
+button{
+    margin-left: 40%;
+}
+
+
+
+#children{
+margin: auto;
+justify-content: center;
+text-align: center;
+width: 80%;
+height: 350px;
+background-color: blueviolet;
+overflow: hidden;
+}
+
+
+
+
+
+
+
+
